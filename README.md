@@ -87,10 +87,14 @@ This course introduces students with database management systems for the first t
 
 1. Signup **Github** by using your **NSU** email address and verify the email.
 2. Signup for **Github Education Pack**, make sure you have ![Pro](https://webapps.stackexchange.com/questions/123808/github-whats-this-pro-tag-on-my-profile) badge in your profile.  
-3. Install the required software.
-4. Open Git command prompt(*Git Bash Here*) and Clone this Repo (```git clone https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU```).
-5. Open the Repo. (```cd Repo```)
-
+3. Install the required software. (For **Github Desktop**, see this - https://www.youtube.com/watch?v=dL6t3jAA05w)
+4. Open Git command prompt(*Git Bash Here*) and Clone this Repo (```git clone https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU```) and make it **private**.
+5. Open the Repo. (```cd <Repo Directory>```)
+6. Put your code in the appropriate Folder.
+7. Add files to your Repo (```git add .```).
+8. Commit using a appropriate comment (```git commit -m "Homework 1 submission"```).
+9. Push to master Repo (```git push origin master```).
+10. Check your file is submitted or not.
 
 </p>
 </br>
