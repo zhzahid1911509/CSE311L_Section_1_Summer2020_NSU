@@ -73,8 +73,8 @@ This course introduces students with database management systems for the first t
 </br>
 
 ## Required Software:
-<p align="left">
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<p align="central">
+<table style="border:1px solid black;margin-left:auto;margin-right:left;">
   <tr>
     <th>XAMPP</th>
     <th>Link - https://www.apachefriends.org/download.html</th> 
