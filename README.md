@@ -79,5 +79,19 @@ This course introduces students with database management systems for the first t
     <th>17.07.2020 (Before 11.59pm)</th>   
   </tr> 
 </table>
+</p>
+</br>
 
+## Lab Assessment:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+
+<p align="central">
+  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th>Assessment 1</th>
+    <th></th> 
+    <th>11.07.2020 (Before 11.59am)</th>   
+  </tr> 
+</table>
+</p>
+</br>
 </html>
