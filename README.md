@@ -96,6 +96,11 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
+## Project 
+<p align="justify">
+Will Update Later
+</p>
+</br>
 
 ## Github Instructions:
 <p align="justify">
