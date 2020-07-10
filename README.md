@@ -72,6 +72,38 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
+## Required Software:
+<p align="central">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th>XAMPP</th>
+    <th>Link - https://www.apachefriends.org/download.html</th> 
+  </tr>
+  <tr>
+    <th>VS Code</th>
+    <th>Link - https://code.visualstudio.com/download</th>
+  <tr>
+    <th>Git SCM</th>
+    <th>Link - https://git-scm.com/downloads</th> 
+  </tr>
+    <tr>
+    <th>Github Desktop</th>
+    <th>Link - https://desktop.github.com/</th>
+  </tr> 
+   </tr>
+    <tr>
+    <th>Sublime Text</th>
+    <th>Link - https://www.sublimetext.com/3</th>
+  </tr>  
+</table>
+</p>
+</br>
+
+## Submission Guideline:
+
+
+</br>
+
 ## Homework:(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
 <p align="central">
