@@ -75,7 +75,7 @@ This course introduces students with database management systems for the first t
 ## Required Software:
 
 
-<p align="central">
+<p align="margin-left">
 <table style="border:1px solid black;margin-left:central;margin-right:left;">
   <tr>
     <th>XAMPP</th>
