@@ -4,7 +4,7 @@
 Department of Electrical and Computer Engineering
 
 
-# CSE311L_Section_1_Summer'2020 
+# CSE311L: Section1 (Summer'2020) 
 
 <p align="justify">
 This is the official Github Repository for CSE311L: Database Systems Lab, Section 1, Summer 2020. All course-related materials and Code submission will be facilitated here.
@@ -46,7 +46,7 @@ This course introduces students with database management systems for the first t
 
 > The marks distribution may change according to the discretion of the instructor.
 
-<strong>Tentative Class Schedule:</strong>
+## Tentative Class Schedule:
 <p align="central">
 <table style="border:2px solid black;margin-left:auto;margin-right:auto;">
   <tr>
@@ -67,7 +67,7 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
-<strong>Homework:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Link</a>)
+## Homework:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
