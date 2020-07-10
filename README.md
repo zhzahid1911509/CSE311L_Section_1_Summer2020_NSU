@@ -46,6 +46,8 @@ This course introduces students with database management systems for the first t
 
 > The marks distribution may change according to the discretion of the instructor.
 
+
+</br>
 ## Tentative Class Schedule:
 <p align="central">
 <table style="border:2px solid black;margin-left:auto;margin-right:auto;">
