@@ -95,5 +95,17 @@ This course introduces students with database management systems for the first t
 </br>
 
 
+## Github Instructions:
+<p align="justify">
+<b>
+  <ol> 
+   <li> <a href="https://guides.github.com/">Github Basic Guide</a>. </i>
+  <li> <a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">Github for beginners </a>. </i>
+  <li> <a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6"> Starter Information </a>.</li>
+  <li> <a href="https://education.github.com/pack"> Upgrading to pro </a>.</li>
+  <li> <a href="https://gist.github.com/hofmannsven/6814451"> Git CheatSheet </a>.</li>
+ </ol> 
+</p>
+
 
 </html>
