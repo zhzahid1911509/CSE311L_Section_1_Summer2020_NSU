@@ -88,8 +88,7 @@ This course introduces students with database management systems for the first t
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
-    <th>Assessment 1</th>
-    <th></th> 
+    <th>Assessment 1</th> 
     <th>11.07.2020 (Before 11.59am)</th>   
   </tr> 
 </table>
