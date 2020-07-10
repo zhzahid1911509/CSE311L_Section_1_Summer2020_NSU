@@ -18,7 +18,7 @@ This course introduces students with database management systems for the first t
 </p>
 
 
-<strong>Mark Distribution:</strong>
+## Mark Distribution:
 <p align="central">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
