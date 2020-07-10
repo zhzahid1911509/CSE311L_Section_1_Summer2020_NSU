@@ -74,11 +74,11 @@ This course introduces students with database management systems for the first t
 
 ## Required Software:
 
-1. XAMPP - https://www.apachefriends.org/download.html
-2. VS Code - https://code.visualstudio.com/download
-3. Git SCM - https://git-scm.com/downloads
-4. Github Desktop - https://desktop.github.com/
-5. Sublime Text - https://www.sublimetext.com/3
+1. **XAMPP** - https://www.apachefriends.org/download.html
+2. **VS Code** - https://code.visualstudio.com/download
+3. **Git SCM** - https://git-scm.com/downloads
+4. **Github Desktop** - https://desktop.github.com/
+5. **Sublime Text** - https://www.sublimetext.com/3
 
 </br>
 
