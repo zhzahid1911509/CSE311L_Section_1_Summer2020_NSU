@@ -85,6 +85,8 @@ This course introduces students with database management systems for the first t
 ## Submission Guideline:
 1. Signup **Github** by using your **NSU** email address and verify the email.
 2. Signup for **Github Education Pack**, make sure you have ![Pro](https://webapps.stackexchange.com/questions/123808/github-whats-this-pro-tag-on-my-profile) badge in your profile.  
+3. Install the required software.
+4. Open Git command prompt(*Git Bash Here*) and Clone this Repo (```git clone https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU```)
 
 
 </br>
