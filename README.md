@@ -48,6 +48,7 @@ This course introduces students with database management systems for the first t
 
 
 </br>
+
 ## Tentative Class Schedule:
 <p align="central">
 <table style="border:2px solid black;margin-left:auto;margin-right:auto;">
@@ -69,7 +70,7 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
-## Homework:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
+## Homework:(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
@@ -82,7 +83,7 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
-## Lab Assessment:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+## Lab Assessment:(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
@@ -94,4 +95,7 @@ This course introduces students with database management systems for the first t
 </table>
 </p>
 </br>
+
+
+
 </html>
