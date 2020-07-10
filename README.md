@@ -59,7 +59,7 @@ This course introduces students with database management systems for the first t
     <th>Week 1</th>
     <th><a href="">Lab1</a></th> 
     <th>Introduction to Github and SQL</th>
-    <th>10.07.2020</th>
+    <th>11.07.2020</th>
   </tr>
   <tr>
 
