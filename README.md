@@ -52,7 +52,7 @@ This course introduces students with database management systems for the first t
   <tr>
     <th>Week</th>
     <th>Lab</th> 
-    <th>syllabus</th>
+    <th>Syllabus</th>
     <th>Date</th>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ This course introduces students with database management systems for the first t
     <th>10.07.2020</th>
   </tr>
   <tr>
-   
+
 </table>
 </p>
 
