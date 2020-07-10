@@ -67,7 +67,7 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
-## Homework:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Link</a>)
+## Homework:</strong> (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
