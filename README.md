@@ -75,8 +75,7 @@ This course introduces students with database management systems for the first t
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
-    <th>Homework 1</th>
-    <th></th> 
+    <th>Homework 1</th> 
     <th>17.07.2020 (Before 11.59pm)</th>   
   </tr> 
 </table>
