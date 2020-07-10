@@ -4,7 +4,7 @@
 Department of Electrical and Computer Engineering
 
 
-# CSE311L: Section1 (Summer'2020) 
+# CSE311L: Section 1 (Summer'2020) 
 
 <p align="justify">
 This is the official Github Repository for CSE311L: Database Systems Lab, Section 1, Summer 2020. All course-related materials and Code submission will be facilitated here.
