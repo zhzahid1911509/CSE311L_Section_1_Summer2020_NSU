@@ -82,7 +82,7 @@ This course introduces students with database management systems for the first t
 
 </br>
 
-## Submission Guideline:
+## _Submission Guideline_:
 <p align="central">
 
 1. Signup **Github** by using your **NSU** email address and verify the email.
