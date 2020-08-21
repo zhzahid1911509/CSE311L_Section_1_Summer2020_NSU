@@ -1,0 +1,28 @@
+1. Write a query that displays the last name , weekly salary, department number of the employees. Name the salary column as "Weekly Salary".
+Solution: SELECT Last_Name, (Salary/4) AS 'Weekly Salary', Department_Id 
+FROM `employees`;
+
+2. Write a query that displays the last name concatenated with the job ID, separated by a comma and space, and name the column Employee and Title.
+Solution: SELECT CONCAT (CONCAT (CONCAT(CONCAT(First_Name,' '),Last_Name), ' is a '),Job_Id) AS 'Employee and Title' FROM employees;
+
+3. Display the employee last name, job ID, and start date of employees hired between February 20, 1998, and May 1, 1998. Order the query in ascending order by start date.
+Solution: SELECT last_name, job_id, hire_date
+FROM employees
+WHERE hire_date BETWEEN '20-Feb-1998' AND '01-May-1998'
+ORDER BY hire_date;
+
+4. Display the last name and department number of all employees in departments 20 and 50 in alphabetical order by name.
+Solution: SELECT Last_Name, Department_Id FROM employees WHERE Department_Id IN (20,50);
+
+5. Display the last name and hire date of every employee who was hired in 1994.
+Solution: SELECT Last_Name, Hire_Date FROM employees WHERE Hire_Date BETWEEN '1994-01-01' AND '1994-12-12';
+
+6. Display the last name, salary, and commission for all employees who earn commissions. Sort data in descending order of salary and commissions.Title.
+Solution: SELECT Last_Name, Salary, Commission_pct FROM employees 
+WHERE Commission_pct IS NOT NULL ORDER BY Salary DESC;
+
+7. Display the last name of all employees who have an a and an e in their last name.
+Solution: SELECT Last_Name 
+FROM employees 
+WHERE 
+Last_Name  LIKE '%a%' AND Last_Name LIKE '%e%'
