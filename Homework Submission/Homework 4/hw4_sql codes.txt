@@ -6,7 +6,7 @@
 	FROM employees 
 	GROUP BY Job_Id;
 
-2.  SELECT First_Name, Last_Name, Manager_id, Salary, MAX(Salary) 
+2.  SELECT First_Name, Last_Name, Manager_id, MAX(Salary) 
     FROM employees 
 	WHERE Manager_id IS NOT NULL 
 	GROUP BY Manager_id 
